@@ -1,4 +1,4 @@
-### <span style="color:grey">ABSTRACCION:</span>
+### <span style="color:grey">ABSTRACAO:</span>
 
 La Abstracción es el proceso de ocultar información importante, mostrando solo lo información más esencial. 
 Reduce la complejidad del código y aísla el impacto de los cambios.

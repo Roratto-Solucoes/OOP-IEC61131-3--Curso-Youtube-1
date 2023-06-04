@@ -1,6 +1,6 @@
 
 <span style="color:grey"><font size="4">
-Principios OOP: (4 pilares)
+Principios POO: (4 pilares)
 </font></span>
 
 
